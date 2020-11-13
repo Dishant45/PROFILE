@@ -7,4 +7,4 @@ CSS folder contain all style files
 
 Images folder contain images us in html and css
 
-link:https://dishant45.github.io/PROFILE/.
+link:https://dishant45.github.io/PROFILE/html/index.html.
